@@ -20,6 +20,14 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
       objectReference: {fileID: 2100000, guid: 1aa090c1eb836c446b68c51f01deded3, type: 2}
+    - target: {fileID: 4724749862706326307, guid: 27f3edb4c562c484bb6a73450e23205a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 4724749862706326307, guid: 27f3edb4c562c484bb6a73450e23205a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.23
+      objectReference: {fileID: 0}
     - target: {fileID: 4910600303239149059, guid: 27f3edb4c562c484bb6a73450e23205a, type: 3}
       propertyPath: m_Name
       value: Door_Pad_Purple
@@ -63,6 +71,14 @@ PrefabInstance:
     - target: {fileID: 5957435405017860298, guid: 27f3edb4c562c484bb6a73450e23205a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6011053945146735412, guid: 27f3edb4c562c484bb6a73450e23205a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63
+      objectReference: {fileID: 0}
+    - target: {fileID: 6011053945146735412, guid: 27f3edb4c562c484bb6a73450e23205a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.23
       objectReference: {fileID: 0}
     - target: {fileID: 6385571122013631191, guid: 27f3edb4c562c484bb6a73450e23205a, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
