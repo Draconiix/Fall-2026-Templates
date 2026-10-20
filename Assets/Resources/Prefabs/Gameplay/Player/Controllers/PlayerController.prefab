@@ -1324,9 +1324,9 @@ MonoBehaviour:
   cameraStandHeight: 0.92
   cameraCrouchHeight: 0.92
   heightResponse: 15
-  walkSpeed: 5
-  crouchSpeed: 3
-  sprintSpeed: 7
+  walkSpeed: 7
+  crouchSpeed: 5
+  sprintSpeed: 13
   airSpeed: 3
   airAcceleration: 70
   jumpSpeed: 13
