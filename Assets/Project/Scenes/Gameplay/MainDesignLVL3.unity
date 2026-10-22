@@ -17498,7 +17498,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3798786593053121219, guid: 55d158171ca79a84190e17b6ca6eb40d, type: 3}
       propertyPath: _serializedExposedParameters.Array.data[1]._json
-      value: '{"_targetVariableID":"e1d1ec88-5ebd-4b0f-ab87-8953d78396cd","_value":[1,2,3,null],"$type":"NodeCanvas.Framework.ExposedParameter`1[[System.Collections.Generic.List`1[[UnityEngine.GameObject,
+      value: '{"_targetVariableID":"e1d1ec88-5ebd-4b0f-ab87-8953d78396cd","_value":[1,2,null,null],"$type":"NodeCanvas.Framework.ExposedParameter`1[[System.Collections.Generic.List`1[[UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"}'
       objectReference: {fileID: 0}
@@ -17509,7 +17509,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3798786593053121219, guid: 55d158171ca79a84190e17b6ca6eb40d, type: 3}
       propertyPath: _serializedExposedParameters.Array.data[1]._references.Array.size
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 3798786593053121219, guid: 55d158171ca79a84190e17b6ca6eb40d, type: 3}
       propertyPath: '_serializedExposedParameters.Array.data[1]._references.Array.data[3]'
@@ -63378,9 +63378,19 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3798786593053121219, guid: 55d158171ca79a84190e17b6ca6eb40d, type: 3}
+      propertyPath: _serializedExposedParameters.Array.data[1]._json
+      value: '{"_targetVariableID":"e1d1ec88-5ebd-4b0f-ab87-8953d78396cd","_value":[null,null,null,null],"$type":"NodeCanvas.Framework.ExposedParameter`1[[System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 3798786593053121219, guid: 55d158171ca79a84190e17b6ca6eb40d, type: 3}
       propertyPath: _serializedExposedParameters.Array.data[2]._json
       value: '{"_targetVariableID":"1f370880-921c-4dd4-bf9d-5c7b31558274","_value":8.0,"$type":"NodeCanvas.Framework.ExposedParameter`1[[System.Single,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 3798786593053121219, guid: 55d158171ca79a84190e17b6ca6eb40d, type: 3}
+      propertyPath: _serializedExposedParameters.Array.data[1]._references.Array.size
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5198086752959174324, guid: 55d158171ca79a84190e17b6ca6eb40d, type: 3}
       propertyPath: m_LocalPosition.x
